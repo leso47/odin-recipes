@@ -1,0 +1,31 @@
+* {
+    background-color: black;
+    color: rgb(238, 79, 10);
+    text-align: center;
+}
+
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+    text-align: left;
+    text-transform: capitalize;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+img {
+    margin: auto;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+#first {
+    text-transform: ;
+}
